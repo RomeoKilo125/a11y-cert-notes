@@ -125,3 +125,11 @@
 
 ### Provide examples of universal design princples in the physical world
 
+- curb cuts
+- tactile pedestrian paths
+- auditory crossing signals
+- automated doors
+- RAMPS
+- handrails on stairs
+
+
