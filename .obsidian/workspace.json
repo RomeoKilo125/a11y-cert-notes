@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "17d461ef912b9c5a",
+        "id": "b197eb4e09ea5658",
         "type": "tabs",
         "children": [
           {
-            "id": "712a3cb060aa34ea",
+            "id": "9d4b9f8775e785f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "712a3cb060aa34ea",
+  "active": "9d4b9f8775e785f5",
   "lastOpenFiles": [
+    "cpacc-study/10-UD-for-learning.md",
+    "cost.md",
     "cpacc-exam-prep.md"
   ]
 }
