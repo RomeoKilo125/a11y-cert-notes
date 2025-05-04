@@ -47,13 +47,9 @@ providing various ways for students to demonstrate their learning. (e.g. again w
 	- 
 - provide options for executive functions
 
-
-
 ## Multiple Means of Engagement
 
 - get to know your students
 - provide options for recruiting interest
 - provide options for sustaining effort and persistence
 - provide options for self-regulation
-
-

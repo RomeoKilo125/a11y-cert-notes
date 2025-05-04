@@ -29,4 +29,5 @@
 - automated doors
 - RAMPS
 - handrails on stairs
-
+- lever doorknobs
+- elevators that state the floor
