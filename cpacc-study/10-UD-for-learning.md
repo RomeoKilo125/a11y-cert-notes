@@ -1,12 +1,17 @@
 # Universal Design for Learning
 
-?? Define UD for learning
-
-?? Identify the principles of universal design for learning
-
-?? Describe the purpose of each principle
-
-?? Explain the importance of utilizing principles in curriculum and instructional design
+- **What is Universal Design for Learning?**
+  - building curricula to be meaningful and workable for as many people as possible.
+- **Identify the principles of universal design for learning**
+  - Multiple means of representation
+  - Multiple means of action and expression
+  - multiple means of engagement
+- **Describe the purpose of each principle**
+  - *representation*: illustrate the lesson in multiple modes to maximize opportunities for understanding
+  - *action and expression*: provide multi-modal opportunities for students to show their understanding, visual, written, verbal, physical etc.
+  - *engagement*: use multiple methods to recruit and maintain interest. "why are we learning this?", "why is this interesting?"
+- **Explain the importance of utilizing principles in curriculum and instructional design**
+  - I feel like this is self explanatory, just like all other accessibility issues. It's the right thing to do. UDL attempts to achieve the best possible educational outcomes for as many people as possible.
 
 ## Learner Diversity
 
@@ -43,10 +48,7 @@ providing various ways for students to demonstrate their learning. (e.g. again w
 
 - provide options for physical action
   - give students opportunities to interact with and manipulate the information
-
 - provide options for expression and communication
--
-
 - provide options for executive functions
 
 ## Multiple Means of Engagement
