@@ -1,8 +1,13 @@
 # Accessibility Standards and Laws
 
 - ?? present an overview of national, federal and international web accessibility legislation.
+  - over the past 50 years governments around the world have made great strides and continue to put forth effort to increase accessibility to all their citizens.
+  - The major watershed moments are the UDHR, the CRPD, ADA the Rehabilitation act (Section 508), and EN 301 549.
+  - specific to the web is WCAG in general. Many many nations around the world use it as the basis for their legal criteria w/r/t web accessibility
 - ?? Explain the differences in scope, implications and demands of legislation.
+  - the UDHR and CRPD may be international treaties but unless a country has ratified it, there is no mode of enforcement. Instead we look to federal, regional and local laws for that. Fortunately those have also been forthcoming. Looming large in that space are government procurement laws, given that so many private entities want to do business with government, they have to meet standards even to be considered.
 - ?? Analyze the applicable legal framework for each web project and for different roles.
+  - Legally speaking, adhering to WCAG AA standards (2.2 at time of writing) is a good baseline for web accessibility, most laws are based on it.
 
 ## UN Universal Declaration of Human Rights (1946)
 
