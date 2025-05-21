@@ -11,7 +11,7 @@
 ## UN Declaration on the Rights of Disabled Persons (1975)
 
 - Specifically states that people with disabilities have the same rights as those without.
-- Recognizes the need for people with disabiliites to be protected against exploitation, abuse and degrading treatment.
+- Recognizes the need for people with disabilities to be protected against exploitation, abuse and degrading treatment.
 - States that people with disabilities should be assisted with developing their abilities in diverse fields.
 
 ## Marrakesh Treaty (2013)
@@ -20,7 +20,7 @@
 
 ## UN Convention on the Rights of Persons with Disabilities (2006)
 
-- The most important human rights document specific to poeple with disabilities.
+- The most important human rights document specific to people with disabilities.
 - A *treaty* that provides for pushing and monitorin national efforts to promote accessibliity. (The US signed, but did not ratify, 2012...)
 - **It is one of the most powerful arguments we have at hand.**
 
@@ -78,3 +78,45 @@
 
 - The Act on the Elimination of Discrimination against Persons with Disabilities (2013)
   - Same as others
+
+## Procurement Laws
+
+- **United States:** Section 508 of the Rehabilitation Act
+  - all technology acquired or used by the US government or its contractors must be accessible.
+- **Europe:** EU Procurement Directive (Directive 2014/24/EU)
+  - similar to Section 508, has been transposed into national laws by member states
+
+## Technology and Domain-Specific Laws
+
+- **US:**
+  - 21st Century Communications and Video Accessibility (CVAA)
+    - everything covered by the FCC must be accessible (e.g. captions on video)
+  - Air Carrier Access Act (ACAA)
+    - prohibits discrimination against people with disabilities by the air travel industry
+    - amended in 2017 to include that aircraft be able to accommodate people with disabilities
+  - State Laws
+    - many state laws have accessibility laws on the books, mostly aimed at k-12 education
+_ **Canada:**
+  - Web Standards for the Government of Canada
+    - apply specifically to the government but not the private sector
+  - Quebec: Standards sur l'accessibilité du Web
+    - a modified version of WCAG AA specifically for the Quebecois government
+- **Europe:**
+  - EN 301 549: European Union voluntary harmonized European standard similar to Section 508
+  - EU Audiovisual Media Services Directive (AVMSD)
+  - European Electronic Communications Code (Directive (EU) 2018/1972)
+  - EU eIDAS regulation
+  - list of countries with laws requiring their government sites comply with some level or modified version of WCAG
+    - France
+    - Germany
+    - Ireland
+    - Italy
+    - Netherlands
+    - Spain
+- **Other Regions:**
+  - further list of countries that base their laws on WCAG
+    - Australia
+    - Hong Kong
+    - India
+    - Japan
+    - New Zealand
